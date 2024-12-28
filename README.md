@@ -30,6 +30,7 @@ The repository is organized into categories such as courses, projects, and thesi
 
 ## License
 Distributed under the MIT License. See `LICENSE` for details.
+
+## Co_License
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
