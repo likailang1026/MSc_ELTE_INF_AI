@@ -27,25 +27,6 @@ The repository is organized into categories such as courses, projects, and thesi
    - Thesis: Supporting documents for research work.
 3. **Install dependencies:** Each project or course folder contains a README specifying installation requirements and usage instructions.
 
-## Folder Structure
-```
-MSc-ELTE-CS-AI/
-├── Courses/
-│   ├── Deep_Learning/
-│   ├── Data_Science/
-│   ├── Mathematics/
-│   └── AI_Fundamentals/
-├── Projects/
-│   ├── PointCloud_Processing/
-│   ├── Image_Recognition/
-│   └── Game_with_OpenCV/
-└── Thesis/
-    ├── Proposal/
-    ├── Papers/
-    ├── Codes/
-    └── Final_Report/
-```
-
 
 ## License
 Distributed under the MIT License. See `LICENSE` for details.
